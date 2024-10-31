@@ -1,5 +1,5 @@
 # Inshelf
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Descrição
 O InShelf é um software desenvolvido para o gerenciamento de estoque de uma livraria. O sistema permite o cadastro, gerenciamento e visualização de livros, além de contar com uma interface para a gestão de funcionários. Com uma tela de relatórios gerada a partir do banco de dados, o sistema oferece insights importantes como status de estoque e dados financeiros.
@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte da disciplina **Programação de Soluç
 
 ## Tecnologias
 - **Linguagem:** Java
-- **Interface Gráfica:** JavaFX
+- **Interface Gráfica:** Java Swing
 - **Banco de Dados:** MySQL
 - **Ferramentas de Prototipação:** Figma
 
