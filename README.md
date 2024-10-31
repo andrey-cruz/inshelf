@@ -4,6 +4,7 @@
 ## Descrição
 O InShelf é um software desenvolvido para o gerenciamento de estoque de uma livraria. O sistema permite o cadastro, gerenciamento e visualização de livros, além de contar com uma interface para a gestão de funcionários. Com uma tela de relatórios gerada a partir do banco de dados, o sistema oferece insights importantes como status de estoque e dados financeiros.
 
+## Objetivo
 Este projeto foi desenvolvido como parte da disciplina **Programação de Soluções Computacionais** do curso de **Sistemas de Informação na UNISUL** em 2024/1.
 
 ## Funcionalidades
